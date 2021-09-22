@@ -9,6 +9,7 @@
 
 ## __Project 2 - Self Driving__
   Implementation of CarRacing Environment where a car has to stay inside a race track.
+  I have also included the Atari roms in case someone needs them.
  
 ## __Project 3 - Custom Environment__
   In this project we create a custom environment for a shower. Our agent must learn to keep the temperature in an optimal range.
